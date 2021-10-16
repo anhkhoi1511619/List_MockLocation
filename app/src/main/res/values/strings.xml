@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MockLocation</string>
+    <string name="ActivityMain_Lat">Lat</string>
+    <string name="ActivityMain_Long">Long</string>
+    <string name="ActivityMain_Apply">Apply</string>
+    <string name="ActivityMain_Move">Move</string>
+    <string name="ActivityMain_..." translatable="false">...</string>
+    <string name="MainActivity_MockApplied">Mocked location applied.</string>
+    <string name="ApplyMockBroadRec_MockNotApplied">"Mocked location not applied. You must enable mock location in developer settings. Service stopped."</string>
+    <string name="MainActivity_MockLocRunning">Mocking location service running.</string>
+    <string name="MainActivity_MockNotApplied">"Mocked location not applied. You must enable mock location in developer settings"</string>
+    <string name="MainActivity_MockStopped">Mocking stopped</string>
+    <string name="ApplyMockBroadRec_Closed">Fake Traveler was closed. Mock location stopped.</string>
+    <string name="ActivityMain_Stop">Stop</string>
+</resources>
